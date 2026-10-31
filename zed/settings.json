@@ -1,0 +1,59 @@
+{
+  "project_panel": {
+    "dock": "left"
+  },
+  "outline_panel": {
+    "dock": "left"
+  },
+  "collaboration_panel": {
+    "dock": "left"
+  },
+  "agent": {
+    "dock": "right",
+    "favorite_models": [],
+    "model_parameters": []
+  },
+  "git_panel": {
+    "dock": "left"
+  },
+  "terminal": {
+    "font_size": 12.0,
+    "font_family": "Fira Code",
+    "font_fallbacks": [
+      "Cascadia Code",
+      "Consolas",
+      "monospace"
+    ],
+    "line_height": {
+      "custom": 1.18
+    },
+    "cursor_shape": "block",
+    "blinking": "on"
+  },
+  "proxy": "",
+  "minimap": {
+    "show": "always"
+  },
+  "buffer_font_fallbacks": [
+    "JetBrains Mono",
+    "MesloLGS NF",
+    "Consolas",
+    "monospace"
+  ],
+  "buffer_font_family": "JetBrainsMono Nerd Font",
+  "semantic_tokens": "combined",
+  "agent_servers": {
+    "claude-acp": {
+      "type": "registry"
+    }
+  },
+  "base_keymap": "VSCode",
+  "icon_theme": "Bearded Icons",
+  "ui_font_size": 16,
+  "buffer_font_size": 12.0,
+  "theme": {
+    "mode": "dark",
+    "light": "Gruvbox Light",
+    "dark": "Bearded Theme Monokai Black (Fixed)"
+  }
+}
