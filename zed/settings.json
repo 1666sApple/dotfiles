@@ -55,5 +55,24 @@
     "mode": "dark",
     "light": "Gruvbox Light",
     "dark": "Bearded Theme Monokai Black (Fixed)"
+  },
+  "auto_install_extensions": {
+    "bearded-icon-theme": true,
+    "bearded-icons": true,
+    "bearded-theme": true,
+    "csv": true,
+    "github-actions": true,
+    "github-theme": true,
+    "html": true,
+    "latex": true,
+    "nvim-nightfox": true,
+    "one-dark-pro": true,
+    "rainbow-csv": true,
+    "snazzy": true,
+    "sql": true,
+    "tokyo-night": true,
+    "toml": true,
+    "viewtree": true,
+    "vue": true
   }
 }
